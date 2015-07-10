@@ -1,0 +1,6 @@
+--2015-07-10 19:42:49--  https://raw2.github.com/github/gitignore/master/Node.gitignore
+Resolving raw2.github.com (raw2.github.com)... 23.235.43.133
+Connecting to raw2.github.com (raw2.github.com)|23.235.43.133|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2015-07-10 19:42:54 ERROR 404: Not Found.
+

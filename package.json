@@ -1,0 +1,32 @@
+{
+  "name": "npmtest",
+  "version": "0.0.0",
+  "description": "Some NPM test.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilnt/npmtest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Emil Tormoen <entmaster@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilnt/npmtest/issues"
+  },
+  "homepage": "https://github.com/emilnt/npmtest"
+}
